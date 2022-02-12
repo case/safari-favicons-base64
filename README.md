@@ -1,0 +1,1 @@
+# safari-favicons-base64
