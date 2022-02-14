@@ -27,3 +27,8 @@ Safari appears to use the same favicon for all `localhost` ports, so we need to 
 3. Re-launch Safari.
 
 `¯\_(ツ)_/¯`
+
+## Updates
+
+- WebKit bug filed here: https://bugs.webkit.org/show_bug.cgi?id=236616
+- Twitter thread here: https://twitter.com/case/status/1493328641580621824?s=21
