@@ -27,3 +27,7 @@ Safari appears to use the same favicon for all `localhost` ports, so we need to 
 `¯\_(ツ)_/¯`
 
 [Via](https://www.idownloadblog.com/2020/09/08/refresh-favicons-in-safari-mac/).
+
+## Research
+
+Stack Overflow [suggests](https://stackoverflow.com/a/5199989/890466) this should work in Safari, but I'm not seeing it work in Safari 15.3 in macOS Monterey 12.2.1.
