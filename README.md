@@ -10,6 +10,8 @@ Data URI base64 favicons appear to work in Chrome and Firefox, but not Safari fo
 
 Stack Overflow [suggests](https://stackoverflow.com/a/5199989/890466) this should work in Safari, but I'm not seeing it work in Safari 15.3 in macOS Monterey 12.2.1. This post is from 2011, so maybe something changed or broke since then?
 
+I couldn't find anything relevant in the [WebKit bug tracker](https://bugs.webkit.org/buglist.cgi?quicksearch=favicon) either, but perhaps I missed it?
+
 ## Local dev
 
 Launch a local web server from this directory, for example:
