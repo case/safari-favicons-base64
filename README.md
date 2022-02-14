@@ -24,9 +24,9 @@ Safari appears to use the same favicon for all `localhost` ports, so we need to 
 2. Go to `~/Library/Safari/Favicon Cache/` and delete everything in there.
 3. Re-launch Safari.
 
-`¯\_(ツ)_/¯`
+¯\_(ツ)_/¯
 
-[Via](https://www.idownloadblog.com/2020/09/08/refresh-favicons-in-safari-mac/).
+https://www.idownloadblog.com/2020/09/08/refresh-favicons-in-safari-mac/
 
 ## Research
 
