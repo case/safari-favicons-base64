@@ -8,6 +8,8 @@ Data URI base64 favicons appear to work in Chrome and Firefox, but not Safari fo
 
 …or put an `apple-touch-icon.png` image file at the site root.
 
+Stack Overflow [suggests](https://stackoverflow.com/a/5199989/890466) this should work in Safari, but I'm not seeing it work in Safari 15.3 in macOS Monterey 12.2.1. This post is from 2011, so maybe something changed or broke since then?
+
 ## Local dev
 
 Launch a local web server from this directory, for example:
@@ -23,7 +25,3 @@ Safari appears to use the same favicon for all `localhost` ports, so we need to 
 3. Re-launch Safari.
 
 `¯\_(ツ)_/¯`
-
-## Research
-
-Stack Overflow [suggests](https://stackoverflow.com/a/5199989/890466) this should work in Safari, but I'm not seeing it work in Safari 15.3 in macOS Monterey 12.2.1. This post is from 2011, so maybe something changed or broke since then?
